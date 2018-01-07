@@ -1,0 +1,24 @@
+{
+  "name": "react-redux-todo",
+  "version": "1.0.0",
+  "description": "Todo app to boost your productivity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maruthi-H/React-Redux-TODO.git"
+  },
+  "keywords": [
+    "Todo",
+    "React",
+    "Redux"
+  ],
+  "author": "Maruthi H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maruthi-H/React-Redux-TODO/issues"
+  },
+  "homepage": "https://github.com/Maruthi-H/React-Redux-TODO#readme"
+}
